@@ -1,0 +1,10 @@
+====================================
+         BANK TRANSACTION RECEIPT    
+====================================
+Account Number   : 1768120272
+Transaction Type : DEPOSIT
+Amount           : ₹3000.0
+Balance After    : ₹13500.0
+Date & Time      : 2026-06-13T23:46:00.280216200
+====================================
+Thank you for banking with us!
